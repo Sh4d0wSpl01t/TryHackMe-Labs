@@ -25,7 +25,7 @@ This cheatsheet is aimed at CTF players and beginners to help them sort TryHackM
 ---
 <figure class="rc-media" id="media-12">
       <div class="rc-media-frame">
-        <img src="VulnHub Neon Cybersecurity Banner.png"
+        <img src="Neon Hacker Command Center.png"
         <div class="rc-media-fallback">
       </div>
     </figure>
