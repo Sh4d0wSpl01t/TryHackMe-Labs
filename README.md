@@ -32,3 +32,12 @@ This cheatsheet is aimed at CTF players and beginners to help them sort TryHackM
 3. [Ignite](https://sh4d0wspl01t.github.io/writeups/c0ldb0x-easy.html)
 4. [Beach-Bar](https://sh4d0wspl01t.github.io/writeups/beach-bar.html)
 5. [Hidden-Deep-Into-My-Heart](https://sh4d0wspl01t.github.io/writeups/hidden-deep-into-my-heart.html)
+
+
+
+
+
+### Badges
+<a href="https://tryhackme.com/room/mrrobot">
+  <img src="https://assets.tryhackme.com/img/badges/mrrobot.png" alt="Mr. Robot CTF Badge" width="100" />
+</a>
